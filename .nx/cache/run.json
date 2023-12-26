@@ -1,0 +1,21 @@
+{
+  "run": {
+    "command": "nx build mfe",
+    "startTime": "2023-12-25T15:28:31.272Z",
+    "endTime": "2023-12-25T15:28:39.548Z",
+    "inner": false
+  },
+  "tasks": [
+    {
+      "taskId": "mfe:build:production",
+      "target": "build",
+      "projectName": "mfe",
+      "hash": "12303457091920520452",
+      "startTime": "2023-12-25T15:28:31.285Z",
+      "endTime": "2023-12-25T15:28:39.548Z",
+      "params": "",
+      "cacheStatus": "cache-miss",
+      "status": 0
+    }
+  ]
+}

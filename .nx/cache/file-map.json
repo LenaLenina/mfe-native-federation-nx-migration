@@ -1,0 +1,193 @@
+{
+  "version": "6.0",
+  "nxVersion": "17.2.7",
+  "deps": {
+    "@angular-architects/native-federation": "^16.1.0",
+    "@angular/animations": "^16.1.0",
+    "@angular/common": "^16.1.0",
+    "@angular/compiler": "^16.1.0",
+    "@angular/core": "^16.1.0",
+    "@angular/forms": "^16.1.0",
+    "@angular/platform-browser": "^16.1.0",
+    "@angular/platform-browser-dynamic": "^16.1.0",
+    "@angular/router": "^16.1.0",
+    "es-module-shims": "^1.5.12",
+    "rxjs": "~7.8.0",
+    "tslib": "^2.3.0",
+    "zone.js": "~0.13.0",
+    "@angular-devkit/build-angular": "^16.1.8",
+    "@angular-devkit/core": "~16.1.6",
+    "@angular-devkit/schematics": "~16.1.6",
+    "@angular/cli": "~16.1.6",
+    "@angular/compiler-cli": "^16.1.0",
+    "@nx/angular": "17.2.7",
+    "@nx/js": "17.2.7",
+    "@nx/workspace": "17.2.7",
+    "@schematics/angular": "~16.1.6",
+    "@swc-node/register": "~1.6.7",
+    "@swc/core": "~1.3.85",
+    "@types/jasmine": "~4.3.0",
+    "jasmine-core": "~4.6.0",
+    "karma": "~6.4.0",
+    "karma-chrome-launcher": "~3.2.0",
+    "karma-coverage": "~2.2.0",
+    "karma-jasmine": "~5.1.0",
+    "karma-jasmine-html-reporter": "~2.1.0",
+    "nx": "17.2.7",
+    "prettier": "^2.6.2",
+    "typescript": "~5.1.3"
+  },
+  "pathMappings": {},
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "nonProjectFiles": [
+      {
+        "file": ".gitignore",
+        "hash": "13044518069027839699"
+      },
+      {
+        "file": ".vscode/extensions.json",
+        "hash": "11761272470041752234"
+      },
+      {
+        "file": ".vscode/tasks.json",
+        "hash": "5336636969995539451"
+      },
+      {
+        "file": "package-lock.json",
+        "hash": "14036817620522431857"
+      },
+      {
+        "file": ".prettierrc",
+        "hash": "16267754514737964994"
+      },
+      {
+        "file": "karma.conf.js",
+        "hash": "9656364725710720620"
+      },
+      {
+        "file": "package.json",
+        "hash": "106780679112117381"
+      },
+      {
+        "file": ".prettierignore",
+        "hash": "16448050467312557263"
+      },
+      {
+        "file": "tools/tsconfig.tools.json",
+        "hash": "16088922570277978783"
+      },
+      {
+        "file": ".vscode/launch.json",
+        "hash": "17038929134016848735"
+      },
+      {
+        "file": "tsconfig.base.json",
+        "hash": "5009148364850250737"
+      },
+      {
+        "file": ".editorconfig",
+        "hash": "6686520031028425313"
+      },
+      {
+        "file": "nx.json",
+        "hash": "6000770728386037787"
+      },
+      {
+        "file": "libs/.gitkeep",
+        "hash": "3244421341483603138"
+      },
+      {
+        "file": "tools/generators/.gitkeep",
+        "hash": "3244421341483603138"
+      },
+      {
+        "file": "README.md",
+        "hash": "11923303508177662794"
+      }
+    ],
+    "projectFileMap": {
+      "mfe": [
+        {
+          "file": "apps/mfe/federation.config.js",
+          "hash": "9060268259938970928",
+          "deps": [
+            "npm:@angular-architects/native-federation"
+          ]
+        },
+        {
+          "file": "apps/mfe/project.json",
+          "hash": "593986222309308253"
+        },
+        {
+          "file": "apps/mfe/src/app/app.component.html",
+          "hash": "12322853579183203438"
+        },
+        {
+          "file": "apps/mfe/src/app/app.component.scss",
+          "hash": "14253142037044609998"
+        },
+        {
+          "file": "apps/mfe/src/app/app.component.ts",
+          "hash": "13552401484578464330",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "apps/mfe/src/app/app.config.ts",
+          "hash": "11713316320723186868",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/router"
+          ]
+        },
+        {
+          "file": "apps/mfe/src/app/app.routes.ts",
+          "hash": "12397496131277534773",
+          "deps": [
+            "npm:@angular/router"
+          ]
+        },
+        {
+          "file": "apps/mfe/src/assets/.gitkeep",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "apps/mfe/src/bootstrap.ts",
+          "hash": "16635586463787978962",
+          "deps": [
+            "npm:@angular/platform-browser"
+          ]
+        },
+        {
+          "file": "apps/mfe/src/favicon.ico",
+          "hash": "3988961587069885523"
+        },
+        {
+          "file": "apps/mfe/src/index.html",
+          "hash": "5528148754664881309"
+        },
+        {
+          "file": "apps/mfe/src/main.ts",
+          "hash": "5765232416667239150",
+          "deps": [
+            "npm:@angular-architects/native-federation"
+          ]
+        },
+        {
+          "file": "apps/mfe/src/styles.scss",
+          "hash": "5195668842064076916"
+        },
+        {
+          "file": "apps/mfe/tsconfig.app.json",
+          "hash": "2381145790002888757"
+        },
+        {
+          "file": "apps/mfe/tsconfig.spec.json",
+          "hash": "17700927949365452100"
+        }
+      ]
+    }
+  }
+}

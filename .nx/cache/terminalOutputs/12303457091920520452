@@ -1,0 +1,13 @@
+[37m[39m
+[37m[1mInitial Chunk Files[22m  [2m | [22m[1mNames[22m        [2m | [22m [1mRaw Size[22m[2m | [22m[1mEstimated Transfer Size[22m[39m
+[37m[92mpolyfills.6BLJAMEN.js[39m[37m[2m | [22mpolyfills    [2m | [22m [96m66.48 kB[39m[37m[2m | [22m               [96m21.48 kB[39m[37m[39m
+[37m[92mmain.4EAWMBX7.js[39m[37m     [2m | [22mmain         [2m | [22m  [96m1.96 kB[39m[37m[2m | [22m              [96m800 bytes[39m[37m[39m
+[37m[92mchunk-YGFNLDZQ.js[39m[37m    [2m | [22m-            [2m | [22m[96m661 bytes[39m[37m[2m | [22m              [96m661 bytes[39m[37m[39m
+[37m[92mstyles.7FSFZJA3.css[39m[37m  [2m | [22mstyles       [2m | [22m  [96m0 bytes[39m[37m[2m | [22m                [96m0 bytes[39m[37m[39m
+[37m[39m
+[37m[1m [22m                    [2m | [22m[1mInitial Total[22m[2m | [22m [1m69.09 kB[22m[2m | [22m               [1m22.90 kB[22m[39m
+[37m[39m
+[37m[1mLazy Chunk Files[22m     [2m | [22m[1mNames[22m        [2m | [22m [1mRaw Size[22m[2m | [22m[1mEstimated Transfer Size[22m[39m
+[37m[92mchunk-UEVRZK32.js[39m[37m    [2m | [22m-            [2m | [22m  [96m1.98 kB[39m[37m[2m | [22m              [96m775 bytes[39m[37m[39m
+[37m[39m
+[37mApplication bundle generation complete. [2.650 seconds][39m

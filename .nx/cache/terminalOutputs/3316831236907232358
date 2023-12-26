@@ -1,0 +1,21 @@
+[1m[33mThe esbuild-based browser application builder ('browser-esbuild') is currently in developer preview and is not yet recommended for production use. For additional information, please see https://angular.io/guide/esbuild[39m[22m
+[36m⠋[39m Building...[2K[1G[36m⠙[39m Building...[2K[1G[36m⠹[39m Building...[2K[1G[36m⠸[39m Building...[2K[1G[36m⠼[39m Building...[2K[1G[36m⠴[39m Building...[2K[1G[36m⠦[39m Building...[2K[1G[36m⠧[39m Building...[2K[1G[36m⠇[39m Building...[2K[1G[36m⠏[39m Building...[2K[1G[36m⠋[39m Building...[2K[1G[36m⠙[39m Building...[2K[1G[36m⠹[39m Building...[2K[1G[36m⠸[39m Building...[2K[1G[36m⠼[39m Building...[2K[1G[36m⠴[39m Building...[2K[1G[36m⠦[39m Building...[2K[1G[36m⠧[39m Building...[2K[1G[36m⠇[39m Building...[2K[1G[36m⠏[39m Building...[2K[1G[37m[39m
+[37m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m        [2m | [22m [1mRaw Size[22m[39m
+[37m[92mpolyfills.js[39m[37m       [2m | [22mpolyfills    [2m | [22m[96m180.77 kB[39m[37m[2m | [22m[39m
+[37m[92mmain.js[39m[37m            [2m | [22mmain         [2m | [22m  [96m4.83 kB[39m[37m[2m | [22m[39m
+[37m[92mchunk-SU2WE4RP.js[39m[37m  [2m | [22m-            [2m | [22m  [96m1.46 kB[39m[37m[2m | [22m[39m
+[37m[92mstyles.css[39m[37m         [2m | [22mstyles       [2m | [22m[96m105 bytes[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[1m [22m                  [2m | [22m[1mInitial Total[22m[2m | [22m[1m187.16 kB[22m[39m
+[37m[39m
+[37m[1mLazy Chunk Files[22m   [2m | [22m[1mNames[22m        [2m | [22m [1mRaw Size[22m[39m
+[37m[92mchunk-5OQZVGUG.js[39m[37m  [2m | [22m-            [2m | [22m  [96m4.48 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mApplication bundle generation complete. [3.095 seconds][39m
+[97;42m INFO [0m[35m[0m Building federation artefacts
+[0m
+ [31m>[39m [0m[7m[1m[31m NX [39m[22m[27m[0m  [31mBuild failed with 1 error:[39m
+
+   error: Could not resolve "./projects/mfe/src/app/app.component.ts"
+   Pass --verbose to see the stacktrace.
+
