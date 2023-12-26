@@ -6,6 +6,7 @@ get project with native federation
 J:\Projects 3\native\3\mfe
 
 this command launch migration -
+
 npx nx@latest init --integrated
 
 npx nx serve mfe -o
