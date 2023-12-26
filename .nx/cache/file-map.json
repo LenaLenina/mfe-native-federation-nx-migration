@@ -46,52 +46,16 @@
         "hash": "13044518069027839699"
       },
       {
-        "file": ".vscode/extensions.json",
-        "hash": "11761272470041752234"
-      },
-      {
-        "file": ".vscode/tasks.json",
-        "hash": "5336636969995539451"
-      },
-      {
-        "file": "package-lock.json",
-        "hash": "14036817620522431857"
-      },
-      {
         "file": ".prettierrc",
         "hash": "16267754514737964994"
       },
       {
+        "file": "README.md",
+        "hash": "14197906707582337335"
+      },
+      {
         "file": "karma.conf.js",
         "hash": "9656364725710720620"
-      },
-      {
-        "file": "package.json",
-        "hash": "106780679112117381"
-      },
-      {
-        "file": ".prettierignore",
-        "hash": "16448050467312557263"
-      },
-      {
-        "file": "tools/tsconfig.tools.json",
-        "hash": "16088922570277978783"
-      },
-      {
-        "file": ".vscode/launch.json",
-        "hash": "17038929134016848735"
-      },
-      {
-        "file": "tsconfig.base.json",
-        "hash": "5009148364850250737"
-      },
-      {
-        "file": ".editorconfig",
-        "hash": "6686520031028425313"
-      },
-      {
-        "file": "nx.json",
-        "hash": "6000770728386037787"
       },
       {
         "file": "libs/.gitkeep",
@@ -102,8 +66,44 @@
         "hash": "3244421341483603138"
       },
       {
-        "file": "README.md",
-        "hash": "11923303508177662794"
+        "file": "package-lock.json",
+        "hash": "14036817620522431857"
+      },
+      {
+        "file": ".vscode/tasks.json",
+        "hash": "5336636969995539451"
+      },
+      {
+        "file": "tsconfig.base.json",
+        "hash": "5009148364850250737"
+      },
+      {
+        "file": ".vscode/launch.json",
+        "hash": "17038929134016848735"
+      },
+      {
+        "file": "package.json",
+        "hash": "106780679112117381"
+      },
+      {
+        "file": ".prettierignore",
+        "hash": "16448050467312557263"
+      },
+      {
+        "file": "nx.json",
+        "hash": "6000770728386037787"
+      },
+      {
+        "file": ".vscode/extensions.json",
+        "hash": "11761272470041752234"
+      },
+      {
+        "file": "tools/tsconfig.tools.json",
+        "hash": "16088922570277978783"
+      },
+      {
+        "file": ".editorconfig",
+        "hash": "6686520031028425313"
       }
     ],
     "projectFileMap": {
